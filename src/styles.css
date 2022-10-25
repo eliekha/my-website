@@ -3,5 +3,5 @@ header {
 }
 
 body{
-  /* grid-template-rows: fit-content(100%); */
+  grid-template-rows: fit-content(100%);
 }
