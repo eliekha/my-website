@@ -1,3 +1,7 @@
 header {
     height: fit-content;
 }
+
+body{
+  grid-template-rows: fit-content(100%);
+}
