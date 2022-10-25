@@ -6,10 +6,6 @@ body{
   grid-template-rows: fit-content(100%);
 }
 
-nav a:active{
-  color: aqua;
-}
-
 .maintenance-wrap {
   max-width: 500px;
   margin: auto;
